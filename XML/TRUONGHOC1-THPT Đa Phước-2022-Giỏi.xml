@@ -1,0 +1,1256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DanhSachHocSinh>
+	<HocSinh MaHS="578">
+		<HoTen datatype="string">Lương Nhựt</HoTen>
+		<NTNS datatype="date">2004-09-11</NTNS>
+		<DiemTB datatype="float">8.73</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="4535">
+		<HoTen datatype="string">Đậu Khoa</HoTen>
+		<NTNS datatype="date">2004-04-09</NTNS>
+		<DiemTB datatype="float">8.69</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="10784">
+		<HoTen datatype="string">Hà Thoa</HoTen>
+		<NTNS datatype="date">2005-06-18</NTNS>
+		<DiemTB datatype="float">8.96</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="14558">
+		<HoTen datatype="string">Tất Yểm</HoTen>
+		<NTNS datatype="date">2005-02-26</NTNS>
+		<DiemTB datatype="float">8.01</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="15295">
+		<HoTen datatype="string">Ông Kha</HoTen>
+		<NTNS datatype="date">2005-12-03</NTNS>
+		<DiemTB datatype="float">8.68</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="31963">
+		<HoTen datatype="string">Bạch Hiển</HoTen>
+		<NTNS datatype="date">2005-02-22</NTNS>
+		<DiemTB datatype="float">8.22</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="33534">
+		<HoTen datatype="string">Tống Đảm</HoTen>
+		<NTNS datatype="date">2005-10-21</NTNS>
+		<DiemTB datatype="float">8.74</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="33659">
+		<HoTen datatype="string">Hứa Chí</HoTen>
+		<NTNS datatype="date">2005-09-28</NTNS>
+		<DiemTB datatype="float">8.5</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="39955">
+		<HoTen datatype="string">Sử Đăng</HoTen>
+		<NTNS datatype="date">2005-09-20</NTNS>
+		<DiemTB datatype="float">8.51</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="40811">
+		<HoTen datatype="string">Lê An</HoTen>
+		<NTNS datatype="date">2004-06-17</NTNS>
+		<DiemTB datatype="float">8.94</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="50574">
+		<HoTen datatype="string">Quế Ban</HoTen>
+		<NTNS datatype="date">2005-03-25</NTNS>
+		<DiemTB datatype="float">8.17</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="54731">
+		<HoTen datatype="string">Vi Ái</HoTen>
+		<NTNS datatype="date">2004-05-11</NTNS>
+		<DiemTB datatype="float">8.4</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="55537">
+		<HoTen datatype="string">Lâm Mai</HoTen>
+		<NTNS datatype="date">2005-12-05</NTNS>
+		<DiemTB datatype="float">8.81</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="60988">
+		<HoTen datatype="string">Tấn Nhi</HoTen>
+		<NTNS datatype="date">2005-02-19</NTNS>
+		<DiemTB datatype="float">8.76</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="65443">
+		<HoTen datatype="string">Diệp Liễu</HoTen>
+		<NTNS datatype="date">2005-08-27</NTNS>
+		<DiemTB datatype="float">8.89</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="73270">
+		<HoTen datatype="string">Phan Ngự</HoTen>
+		<NTNS datatype="date">2004-10-01</NTNS>
+		<DiemTB datatype="float">8.26</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="75240">
+		<HoTen datatype="string">Quế Vy</HoTen>
+		<NTNS datatype="date">2005-11-30</NTNS>
+		<DiemTB datatype="float">8.66</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="76429">
+		<HoTen datatype="string">Quách Duyệt</HoTen>
+		<NTNS datatype="date">2005-01-17</NTNS>
+		<DiemTB datatype="float">8.23</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="85220">
+		<HoTen datatype="string">Ngụy Phú</HoTen>
+		<NTNS datatype="date">2004-08-10</NTNS>
+		<DiemTB datatype="float">8.89</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="85874">
+		<HoTen datatype="string">Trà Nghi</HoTen>
+		<NTNS datatype="date">2004-05-11</NTNS>
+		<DiemTB datatype="float">8.54</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="88821">
+		<HoTen datatype="string">Vòng Nghệ</HoTen>
+		<NTNS datatype="date">2004-02-04</NTNS>
+		<DiemTB datatype="float">8.08</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="111255">
+		<HoTen datatype="string">Dư Hương</HoTen>
+		<NTNS datatype="date">2004-08-06</NTNS>
+		<DiemTB datatype="float">8.04</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="111334">
+		<HoTen datatype="string">Trác Phương</HoTen>
+		<NTNS datatype="date">2004-06-05</NTNS>
+		<DiemTB datatype="float">8.07</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="125997">
+		<HoTen datatype="string">La Kiệt</HoTen>
+		<NTNS datatype="date">2004-02-25</NTNS>
+		<DiemTB datatype="float">8.72</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="130572">
+		<HoTen datatype="string">Quách An</HoTen>
+		<NTNS datatype="date">2005-07-14</NTNS>
+		<DiemTB datatype="float">8.03</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="131969">
+		<HoTen datatype="string">Vàng Trà</HoTen>
+		<NTNS datatype="date">2004-01-07</NTNS>
+		<DiemTB datatype="float">8.74</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="137640">
+		<HoTen datatype="string">Tô Ly</HoTen>
+		<NTNS datatype="date">2005-01-29</NTNS>
+		<DiemTB datatype="float">8.02</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="140181">
+		<HoTen datatype="string">Doãn Yểm</HoTen>
+		<NTNS datatype="date">2005-08-10</NTNS>
+		<DiemTB datatype="float">8.5</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="147341">
+		<HoTen datatype="string">Đào Di</HoTen>
+		<NTNS datatype="date">2004-10-15</NTNS>
+		<DiemTB datatype="float">8.02</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="149865">
+		<HoTen datatype="string">Tạ Vinh</HoTen>
+		<NTNS datatype="date">2005-02-25</NTNS>
+		<DiemTB datatype="float">8.97</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="152260">
+		<HoTen datatype="string">Quách Gia</HoTen>
+		<NTNS datatype="date">2004-04-07</NTNS>
+		<DiemTB datatype="float">8.51</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="160281">
+		<HoTen datatype="string">Dư Vy</HoTen>
+		<NTNS datatype="date">2004-02-01</NTNS>
+		<DiemTB datatype="float">8.26</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="162475">
+		<HoTen datatype="string">Ôn Thuyên</HoTen>
+		<NTNS datatype="date">2004-11-28</NTNS>
+		<DiemTB datatype="float">8.13</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="164733">
+		<HoTen datatype="string">Nhan Thông</HoTen>
+		<NTNS datatype="date">2004-06-03</NTNS>
+		<DiemTB datatype="float">8.87</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="165524">
+		<HoTen datatype="string">Hàn Tuệ</HoTen>
+		<NTNS datatype="date">2005-02-15</NTNS>
+		<DiemTB datatype="float">8.63</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="165776">
+		<HoTen datatype="string">Lâm Tuyền</HoTen>
+		<NTNS datatype="date">2004-08-02</NTNS>
+		<DiemTB datatype="float">8.86</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="171630">
+		<HoTen datatype="string">Doãn Thiên</HoTen>
+		<NTNS datatype="date">2005-05-27</NTNS>
+		<DiemTB datatype="float">8.6</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="172935">
+		<HoTen datatype="string">Trương Thành</HoTen>
+		<NTNS datatype="date">2004-03-17</NTNS>
+		<DiemTB datatype="float">8.53</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="176336">
+		<HoTen datatype="string">Quảng Kiên</HoTen>
+		<NTNS datatype="date">2005-07-22</NTNS>
+		<DiemTB datatype="float">8.72</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="194351">
+		<HoTen datatype="string">Lại Thượng</HoTen>
+		<NTNS datatype="date">2004-01-17</NTNS>
+		<DiemTB datatype="float">8.78</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="201801">
+		<HoTen datatype="string">Từ Yến</HoTen>
+		<NTNS datatype="date">2004-11-04</NTNS>
+		<DiemTB datatype="float">8.52</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="201912">
+		<HoTen datatype="string">Ôn Gia</HoTen>
+		<NTNS datatype="date">2005-04-04</NTNS>
+		<DiemTB datatype="float">8.38</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="205046">
+		<HoTen datatype="string">Nhâm Quý</HoTen>
+		<NTNS datatype="date">2004-02-28</NTNS>
+		<DiemTB datatype="float">8.27</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="211091">
+		<HoTen datatype="string">Trác Tuyết</HoTen>
+		<NTNS datatype="date">2004-09-04</NTNS>
+		<DiemTB datatype="float">8.86</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="212152">
+		<HoTen datatype="string">Hứa Trường</HoTen>
+		<NTNS datatype="date">2005-06-05</NTNS>
+		<DiemTB datatype="float">8.46</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="214232">
+		<HoTen datatype="string">Kim Hoàng</HoTen>
+		<NTNS datatype="date">2004-06-29</NTNS>
+		<DiemTB datatype="float">8.66</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="225219">
+		<HoTen datatype="string">Dư Can</HoTen>
+		<NTNS datatype="date">2005-02-14</NTNS>
+		<DiemTB datatype="float">8.32</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="227558">
+		<HoTen datatype="string">Danh Dương</HoTen>
+		<NTNS datatype="date">2004-08-30</NTNS>
+		<DiemTB datatype="float">8.8</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="233986">
+		<HoTen datatype="string">Hồ Tuyết</HoTen>
+		<NTNS datatype="date">2004-10-07</NTNS>
+		<DiemTB datatype="float">8.57</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="234878">
+		<HoTen datatype="string">Vàng Ái</HoTen>
+		<NTNS datatype="date">2004-08-27</NTNS>
+		<DiemTB datatype="float">8.09</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="242943">
+		<HoTen datatype="string">Cù Thiện</HoTen>
+		<NTNS datatype="date">2005-02-16</NTNS>
+		<DiemTB datatype="float">8.7</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="249117">
+		<HoTen datatype="string">Vưu Xuân</HoTen>
+		<NTNS datatype="date">2004-05-02</NTNS>
+		<DiemTB datatype="float">8.12</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="250181">
+		<HoTen datatype="string">Huỳnh Nghĩa</HoTen>
+		<NTNS datatype="date">2004-02-28</NTNS>
+		<DiemTB datatype="float">8.29</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="251332">
+		<HoTen datatype="string">Doãn Bằng</HoTen>
+		<NTNS datatype="date">2005-09-22</NTNS>
+		<DiemTB datatype="float">8.11</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="262672">
+		<HoTen datatype="string">Đường Dao</HoTen>
+		<NTNS datatype="date">2004-01-24</NTNS>
+		<DiemTB datatype="float">8.66</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="266805">
+		<HoTen datatype="string">Vương Nghĩa</HoTen>
+		<NTNS datatype="date">2004-02-27</NTNS>
+		<DiemTB datatype="float">8.87</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="267958">
+		<HoTen datatype="string">Vưu Quế</HoTen>
+		<NTNS datatype="date">2005-12-25</NTNS>
+		<DiemTB datatype="float">8.71</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="271872">
+		<HoTen datatype="string">Thạch Huyên</HoTen>
+		<NTNS datatype="date">2004-08-05</NTNS>
+		<DiemTB datatype="float">8.34</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="276745">
+		<HoTen datatype="string">Hồng Luân</HoTen>
+		<NTNS datatype="date">2004-10-06</NTNS>
+		<DiemTB datatype="float">8.69</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="279836">
+		<HoTen datatype="string">Nghiêm Ngọc</HoTen>
+		<NTNS datatype="date">2004-12-26</NTNS>
+		<DiemTB datatype="float">8.05</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="286746">
+		<HoTen datatype="string">Đậu Nhung</HoTen>
+		<NTNS datatype="date">2004-11-15</NTNS>
+		<DiemTB datatype="float">8.31</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="288219">
+		<HoTen datatype="string">Lương Nguyên</HoTen>
+		<NTNS datatype="date">2004-11-20</NTNS>
+		<DiemTB datatype="float">8.04</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="295329">
+		<HoTen datatype="string">Văn Giang</HoTen>
+		<NTNS datatype="date">2005-05-02</NTNS>
+		<DiemTB datatype="float">8.23</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="296057">
+		<HoTen datatype="string">Trịnh Nhung</HoTen>
+		<NTNS datatype="date">2005-01-09</NTNS>
+		<DiemTB datatype="float">8.43</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="300935">
+		<HoTen datatype="string">Ngụy Bằng</HoTen>
+		<NTNS datatype="date">2004-02-21</NTNS>
+		<DiemTB datatype="float">8.46</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="308987">
+		<HoTen datatype="string">Chế Hy</HoTen>
+		<NTNS datatype="date">2005-11-21</NTNS>
+		<DiemTB datatype="float">8.36</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="312830">
+		<HoTen datatype="string">Sử Hiệp</HoTen>
+		<NTNS datatype="date">2004-03-04</NTNS>
+		<DiemTB datatype="float">8.94</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="314899">
+		<HoTen datatype="string">Doãn Uyên</HoTen>
+		<NTNS datatype="date">2004-08-29</NTNS>
+		<DiemTB datatype="float">8.47</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="321577">
+		<HoTen datatype="string">Hàng Vĩ</HoTen>
+		<NTNS datatype="date">2005-06-29</NTNS>
+		<DiemTB datatype="float">8.39</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="326461">
+		<HoTen datatype="string">Ông Di</HoTen>
+		<NTNS datatype="date">2004-01-11</NTNS>
+		<DiemTB datatype="float">8.32</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="331885">
+		<HoTen datatype="string">Đậu Ánh</HoTen>
+		<NTNS datatype="date">2004-01-08</NTNS>
+		<DiemTB datatype="float">8.78</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="331953">
+		<HoTen datatype="string">Vòng Phúc</HoTen>
+		<NTNS datatype="date">2005-02-17</NTNS>
+		<DiemTB datatype="float">8.1</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="335385">
+		<HoTen datatype="string">Chế Quý</HoTen>
+		<NTNS datatype="date">2004-06-05</NTNS>
+		<DiemTB datatype="float">8.46</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="336216">
+		<HoTen datatype="string">Trác Ái</HoTen>
+		<NTNS datatype="date">2004-02-22</NTNS>
+		<DiemTB datatype="float">8.27</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="337414">
+		<HoTen datatype="string">Chung Công</HoTen>
+		<NTNS datatype="date">2004-04-21</NTNS>
+		<DiemTB datatype="float">8.28</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="361568">
+		<HoTen datatype="string">Bùi Lâm</HoTen>
+		<NTNS datatype="date">2005-05-15</NTNS>
+		<DiemTB datatype="float">8.36</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="365749">
+		<HoTen datatype="string">Hàng Thi</HoTen>
+		<NTNS datatype="date">2005-04-20</NTNS>
+		<DiemTB datatype="float">8.82</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="373789">
+		<HoTen datatype="string">Đặng Hào</HoTen>
+		<NTNS datatype="date">2004-10-11</NTNS>
+		<DiemTB datatype="float">8.73</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="375971">
+		<HoTen datatype="string">Hoàng Mão</HoTen>
+		<NTNS datatype="date">2005-04-07</NTNS>
+		<DiemTB datatype="float">8.59</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="381669">
+		<HoTen datatype="string">Dư Vũ</HoTen>
+		<NTNS datatype="date">2004-08-11</NTNS>
+		<DiemTB datatype="float">8.37</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="382995">
+		<HoTen datatype="string">Thiều Ngọc</HoTen>
+		<NTNS datatype="date">2005-05-10</NTNS>
+		<DiemTB datatype="float">8.24</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="384813">
+		<HoTen datatype="string">Cù Tước</HoTen>
+		<NTNS datatype="date">2004-06-08</NTNS>
+		<DiemTB datatype="float">8.13</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="386478">
+		<HoTen datatype="string">Quách Phú</HoTen>
+		<NTNS datatype="date">2004-07-10</NTNS>
+		<DiemTB datatype="float">8.52</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="386812">
+		<HoTen datatype="string">Liêu Phú</HoTen>
+		<NTNS datatype="date">2005-07-02</NTNS>
+		<DiemTB datatype="float">8.23</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="395179">
+		<HoTen datatype="string">Thiều Tiên</HoTen>
+		<NTNS datatype="date">2004-11-02</NTNS>
+		<DiemTB datatype="float">8.88</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="402492">
+		<HoTen datatype="string">Châu Cát</HoTen>
+		<NTNS datatype="date">2005-04-02</NTNS>
+		<DiemTB datatype="float">8.92</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="407643">
+		<HoTen datatype="string">Nhâm Đại</HoTen>
+		<NTNS datatype="date">2004-06-30</NTNS>
+		<DiemTB datatype="float">8.09</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="407719">
+		<HoTen datatype="string">Hàn Thi</HoTen>
+		<NTNS datatype="date">2005-03-13</NTNS>
+		<DiemTB datatype="float">8.87</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="409582">
+		<HoTen datatype="string">Phạm Tuệ</HoTen>
+		<NTNS datatype="date">2005-10-10</NTNS>
+		<DiemTB datatype="float">8.88</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="415201">
+		<HoTen datatype="string">Thiều Tâm</HoTen>
+		<NTNS datatype="date">2004-02-15</NTNS>
+		<DiemTB datatype="float">8.06</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="418955">
+		<HoTen datatype="string">Chung Bảo</HoTen>
+		<NTNS datatype="date">2005-10-03</NTNS>
+		<DiemTB datatype="float">8.46</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="438241">
+		<HoTen datatype="string">Dư Hằng</HoTen>
+		<NTNS datatype="date">2005-03-16</NTNS>
+		<DiemTB datatype="float">8.1</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="454579">
+		<HoTen datatype="string">Danh Kim</HoTen>
+		<NTNS datatype="date">2005-11-16</NTNS>
+		<DiemTB datatype="float">8.74</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="456341">
+		<HoTen datatype="string">Kim Mạnh</HoTen>
+		<NTNS datatype="date">2004-08-09</NTNS>
+		<DiemTB datatype="float">8.14</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="460562">
+		<HoTen datatype="string">Giang Cựu</HoTen>
+		<NTNS datatype="date">2004-09-19</NTNS>
+		<DiemTB datatype="float">8.58</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="461802">
+		<HoTen datatype="string">Sùng Tước</HoTen>
+		<NTNS datatype="date">2005-03-02</NTNS>
+		<DiemTB datatype="float">8.22</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="463574">
+		<HoTen datatype="string">Quế Thi</HoTen>
+		<NTNS datatype="date">2005-07-26</NTNS>
+		<DiemTB datatype="float">8.79</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="466250">
+		<HoTen datatype="string">Lỗ Thy</HoTen>
+		<NTNS datatype="date">2004-08-23</NTNS>
+		<DiemTB datatype="float">8.11</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="483342">
+		<HoTen datatype="string">Lai Tuyết</HoTen>
+		<NTNS datatype="date">2004-06-30</NTNS>
+		<DiemTB datatype="float">8.5</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="484703">
+		<HoTen datatype="string">Bành Trọng</HoTen>
+		<NTNS datatype="date">2004-06-30</NTNS>
+		<DiemTB datatype="float">8.97</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="500395">
+		<HoTen datatype="string">Chiêm Yên</HoTen>
+		<NTNS datatype="date">2004-08-24</NTNS>
+		<DiemTB datatype="float">8.88</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="501584">
+		<HoTen datatype="string">Bạch Nguyên</HoTen>
+		<NTNS datatype="date">2005-06-29</NTNS>
+		<DiemTB datatype="float">8.41</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="501671">
+		<HoTen datatype="string">Đoàn Dung</HoTen>
+		<NTNS datatype="date">2004-09-20</NTNS>
+		<DiemTB datatype="float">8.05</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="508954">
+		<HoTen datatype="string">Thiều Thương</HoTen>
+		<NTNS datatype="date">2005-07-20</NTNS>
+		<DiemTB datatype="float">8.97</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="532664">
+		<HoTen datatype="string">Ma Tân</HoTen>
+		<NTNS datatype="date">2005-04-09</NTNS>
+		<DiemTB datatype="float">8.83</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="541353">
+		<HoTen datatype="string">Bùi Lệ</HoTen>
+		<NTNS datatype="date">2005-08-12</NTNS>
+		<DiemTB datatype="float">8.64</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="551600">
+		<HoTen datatype="string">Tiêu Đình</HoTen>
+		<NTNS datatype="date">2004-05-25</NTNS>
+		<DiemTB datatype="float">8.46</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="554280">
+		<HoTen datatype="string">Vi Nam</HoTen>
+		<NTNS datatype="date">2004-04-01</NTNS>
+		<DiemTB datatype="float">8.03</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="555354">
+		<HoTen datatype="string">Nguyễn Nhựt</HoTen>
+		<NTNS datatype="date">2005-08-21</NTNS>
+		<DiemTB datatype="float">8.91</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="579911">
+		<HoTen datatype="string">La Kỳ</HoTen>
+		<NTNS datatype="date">2004-09-14</NTNS>
+		<DiemTB datatype="float">8.54</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="580922">
+		<HoTen datatype="string">Nguyễn Hòa</HoTen>
+		<NTNS datatype="date">2005-11-05</NTNS>
+		<DiemTB datatype="float">8.62</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="581127">
+		<HoTen datatype="string">Hồ Đối</HoTen>
+		<NTNS datatype="date">2004-06-25</NTNS>
+		<DiemTB datatype="float">8.78</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="584023">
+		<HoTen datatype="string">Ngụy Quốc</HoTen>
+		<NTNS datatype="date">2004-08-04</NTNS>
+		<DiemTB datatype="float">8.87</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="598742">
+		<HoTen datatype="string">Đàm Trí</HoTen>
+		<NTNS datatype="date">2005-05-07</NTNS>
+		<DiemTB datatype="float">8.03</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="603653">
+		<HoTen datatype="string">Đào Luyện</HoTen>
+		<NTNS datatype="date">2004-01-19</NTNS>
+		<DiemTB datatype="float">8.04</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="605765">
+		<HoTen datatype="string">Tăng Thúy</HoTen>
+		<NTNS datatype="date">2005-09-01</NTNS>
+		<DiemTB datatype="float">8.22</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="606238">
+		<HoTen datatype="string">Vi Thiên</HoTen>
+		<NTNS datatype="date">2005-06-11</NTNS>
+		<DiemTB datatype="float">8.9</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="606710">
+		<HoTen datatype="string">Diệp Lợi</HoTen>
+		<NTNS datatype="date">2005-02-14</NTNS>
+		<DiemTB datatype="float">8.43</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="609994">
+		<HoTen datatype="string">Ông Đạt</HoTen>
+		<NTNS datatype="date">2004-12-28</NTNS>
+		<DiemTB datatype="float">8.84</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="610537">
+		<HoTen datatype="string">Hàng Hiển</HoTen>
+		<NTNS datatype="date">2005-03-08</NTNS>
+		<DiemTB datatype="float">8.2</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="611626">
+		<HoTen datatype="string">Hồng Đối</HoTen>
+		<NTNS datatype="date">2005-10-12</NTNS>
+		<DiemTB datatype="float">8.66</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="614216">
+		<HoTen datatype="string">Lữ Trang</HoTen>
+		<NTNS datatype="date">2004-06-24</NTNS>
+		<DiemTB datatype="float">8.47</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="615405">
+		<HoTen datatype="string">Sử Cơ</HoTen>
+		<NTNS datatype="date">2005-07-11</NTNS>
+		<DiemTB datatype="float">8.86</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="618066">
+		<HoTen datatype="string">Vòng Tiến</HoTen>
+		<NTNS datatype="date">2005-02-11</NTNS>
+		<DiemTB datatype="float">8.67</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="621299">
+		<HoTen datatype="string">Sùng Lam</HoTen>
+		<NTNS datatype="date">2004-01-08</NTNS>
+		<DiemTB datatype="float">8.29</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="626727">
+		<HoTen datatype="string">Đinh Thùy</HoTen>
+		<NTNS datatype="date">2005-11-19</NTNS>
+		<DiemTB datatype="float">8.8</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="630097">
+		<HoTen datatype="string">Tạ Nhân</HoTen>
+		<NTNS datatype="date">2004-01-27</NTNS>
+		<DiemTB datatype="float">8.99</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="634577">
+		<HoTen datatype="string">Mã Kha</HoTen>
+		<NTNS datatype="date">2004-07-07</NTNS>
+		<DiemTB datatype="float">8.78</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="634779">
+		<HoTen datatype="string">Ôn Doanh</HoTen>
+		<NTNS datatype="date">2004-07-07</NTNS>
+		<DiemTB datatype="float">8.15</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="638130">
+		<HoTen datatype="string">Tiêu Thy</HoTen>
+		<NTNS datatype="date">2004-05-28</NTNS>
+		<DiemTB datatype="float">8.28</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="642510">
+		<HoTen datatype="string">Triệu Thiên</HoTen>
+		<NTNS datatype="date">2005-12-18</NTNS>
+		<DiemTB datatype="float">8.1</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="658396">
+		<HoTen datatype="string">Đường Lợi</HoTen>
+		<NTNS datatype="date">2005-10-08</NTNS>
+		<DiemTB datatype="float">8.27</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="661207">
+		<HoTen datatype="string">Diệp Cường</HoTen>
+		<NTNS datatype="date">2005-10-10</NTNS>
+		<DiemTB datatype="float">8.84</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="663220">
+		<HoTen datatype="string">Mã Đông</HoTen>
+		<NTNS datatype="date">2005-02-17</NTNS>
+		<DiemTB datatype="float">8.77</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="664970">
+		<HoTen datatype="string">Mã Phụng</HoTen>
+		<NTNS datatype="date">2004-12-30</NTNS>
+		<DiemTB datatype="float">8.32</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="673971">
+		<HoTen datatype="string">Lục Tuyền</HoTen>
+		<NTNS datatype="date">2005-02-27</NTNS>
+		<DiemTB datatype="float">8.74</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="676289">
+		<HoTen datatype="string">Nhâm Yên</HoTen>
+		<NTNS datatype="date">2004-08-14</NTNS>
+		<DiemTB datatype="float">8.47</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="678583">
+		<HoTen datatype="string">Hồng Hưng</HoTen>
+		<NTNS datatype="date">2004-05-02</NTNS>
+		<DiemTB datatype="float">8.9</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="679694">
+		<HoTen datatype="string">Ông Bằng</HoTen>
+		<NTNS datatype="date">2004-03-25</NTNS>
+		<DiemTB datatype="float">8.73</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="683542">
+		<HoTen datatype="string">Đỗ Hòa</HoTen>
+		<NTNS datatype="date">2005-02-25</NTNS>
+		<DiemTB datatype="float">8.75</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="693634">
+		<HoTen datatype="string">Vương Thuận</HoTen>
+		<NTNS datatype="date">2004-08-29</NTNS>
+		<DiemTB datatype="float">8.31</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="700381">
+		<HoTen datatype="string">Bùi Vương</HoTen>
+		<NTNS datatype="date">2005-02-11</NTNS>
+		<DiemTB datatype="float">8.03</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="713353">
+		<HoTen datatype="string">Hồng Phúc</HoTen>
+		<NTNS datatype="date">2005-08-17</NTNS>
+		<DiemTB datatype="float">8.17</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="717974">
+		<HoTen datatype="string">Viên Huế</HoTen>
+		<NTNS datatype="date">2005-05-27</NTNS>
+		<DiemTB datatype="float">8.9</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="728204">
+		<HoTen datatype="string">Dư Tài</HoTen>
+		<NTNS datatype="date">2005-11-28</NTNS>
+		<DiemTB datatype="float">8.15</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="741778">
+		<HoTen datatype="string">Lỗ Kha</HoTen>
+		<NTNS datatype="date">2004-03-01</NTNS>
+		<DiemTB datatype="float">8.46</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="742515">
+		<HoTen datatype="string">Đinh Bắc</HoTen>
+		<NTNS datatype="date">2004-01-14</NTNS>
+		<DiemTB datatype="float">8.85</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="759225">
+		<HoTen datatype="string">Đào Luân</HoTen>
+		<NTNS datatype="date">2005-11-10</NTNS>
+		<DiemTB datatype="float">8.09</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="759412">
+		<HoTen datatype="string">Lại Ngọc</HoTen>
+		<NTNS datatype="date">2005-10-07</NTNS>
+		<DiemTB datatype="float">8.4</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="769786">
+		<HoTen datatype="string">Sơn Tín</HoTen>
+		<NTNS datatype="date">2004-01-21</NTNS>
+		<DiemTB datatype="float">8.78</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="770268">
+		<HoTen datatype="string">Đồng Ngạn</HoTen>
+		<NTNS datatype="date">2005-05-24</NTNS>
+		<DiemTB datatype="float">8.13</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="770477">
+		<HoTen datatype="string">Đường Trà</HoTen>
+		<NTNS datatype="date">2004-12-21</NTNS>
+		<DiemTB datatype="float">8.6</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="777223">
+		<HoTen datatype="string">Lại Hạc</HoTen>
+		<NTNS datatype="date">2004-08-27</NTNS>
+		<DiemTB datatype="float">8.64</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="799522">
+		<HoTen datatype="string">Thái Doanh</HoTen>
+		<NTNS datatype="date">2004-02-25</NTNS>
+		<DiemTB datatype="float">8.63</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="800774">
+		<HoTen datatype="string">Hán Cúc</HoTen>
+		<NTNS datatype="date">2004-03-15</NTNS>
+		<DiemTB datatype="float">8.26</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="804850">
+		<HoTen datatype="string">Đỗ Kỳ</HoTen>
+		<NTNS datatype="date">2005-03-22</NTNS>
+		<DiemTB datatype="float">8.97</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="816781">
+		<HoTen datatype="string">Thập Đảm</HoTen>
+		<NTNS datatype="date">2004-10-02</NTNS>
+		<DiemTB datatype="float">8.75</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="839211">
+		<HoTen datatype="string">Bùi Bình</HoTen>
+		<NTNS datatype="date">2004-05-11</NTNS>
+		<DiemTB datatype="float">8.74</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="841151">
+		<HoTen datatype="string">Ôn Hạc</HoTen>
+		<NTNS datatype="date">2005-10-28</NTNS>
+		<DiemTB datatype="float">8.48</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="842742">
+		<HoTen datatype="string">Danh Cúc</HoTen>
+		<NTNS datatype="date">2005-05-22</NTNS>
+		<DiemTB datatype="float">8.45</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="850266">
+		<HoTen datatype="string">Lương Quý</HoTen>
+		<NTNS datatype="date">2004-08-16</NTNS>
+		<DiemTB datatype="float">8.7</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="857759">
+		<HoTen datatype="string">Nguyễn Vương</HoTen>
+		<NTNS datatype="date">2005-06-17</NTNS>
+		<DiemTB datatype="float">8.5</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="869887">
+		<HoTen datatype="string">Cù Đào</HoTen>
+		<NTNS datatype="date">2005-01-19</NTNS>
+		<DiemTB datatype="float">8.66</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="871875">
+		<HoTen datatype="string">Nhâm Nhâm</HoTen>
+		<NTNS datatype="date">2004-09-08</NTNS>
+		<DiemTB datatype="float">8.29</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="872500">
+		<HoTen datatype="string">Danh Được</HoTen>
+		<NTNS datatype="date">2004-02-23</NTNS>
+		<DiemTB datatype="float">8.2</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="881210">
+		<HoTen datatype="string">Tạ Sĩ</HoTen>
+		<NTNS datatype="date">2005-10-19</NTNS>
+		<DiemTB datatype="float">8.14</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="902144">
+		<HoTen datatype="string">Đường Duyệt</HoTen>
+		<NTNS datatype="date">2005-04-07</NTNS>
+		<DiemTB datatype="float">8.39</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="912828">
+		<HoTen datatype="string">Vưu Hội</HoTen>
+		<NTNS datatype="date">2005-12-18</NTNS>
+		<DiemTB datatype="float">8.14</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="915603">
+		<HoTen datatype="string">Lưu Lệ</HoTen>
+		<NTNS datatype="date">2005-02-22</NTNS>
+		<DiemTB datatype="float">8.87</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="919605">
+		<HoTen datatype="string">Ma Tùng</HoTen>
+		<NTNS datatype="date">2005-05-30</NTNS>
+		<DiemTB datatype="float">8.17</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="936273">
+		<HoTen datatype="string">Lại Duy</HoTen>
+		<NTNS datatype="date">2004-11-17</NTNS>
+		<DiemTB datatype="float">8.18</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="939406">
+		<HoTen datatype="string">Trác Lụa</HoTen>
+		<NTNS datatype="date">2005-02-03</NTNS>
+		<DiemTB datatype="float">8.93</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="944301">
+		<HoTen datatype="string">Nhâm Kiên</HoTen>
+		<NTNS datatype="date">2004-05-01</NTNS>
+		<DiemTB datatype="float">8.41</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="947961">
+		<HoTen datatype="string">Kim Cảnh</HoTen>
+		<NTNS datatype="date">2004-08-02</NTNS>
+		<DiemTB datatype="float">8.83</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="952848">
+		<HoTen datatype="string">Mạch Ánh</HoTen>
+		<NTNS datatype="date">2004-04-13</NTNS>
+		<DiemTB datatype="float">8.52</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="954330">
+		<HoTen datatype="string">Trương Thủy</HoTen>
+		<NTNS datatype="date">2005-03-11</NTNS>
+		<DiemTB datatype="float">8.72</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="964675">
+		<HoTen datatype="string">Lã Tích</HoTen>
+		<NTNS datatype="date">2004-05-29</NTNS>
+		<DiemTB datatype="float">8.45</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="972984">
+		<HoTen datatype="string">Dư Diễm</HoTen>
+		<NTNS datatype="date">2005-01-25</NTNS>
+		<DiemTB datatype="float">8.11</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+	<HocSinh MaHS="978888">
+		<HoTen datatype="string">Phan Giác</HoTen>
+		<NTNS datatype="date">2004-07-16</NTNS>
+		<DiemTB datatype="float">8.96</DiemTB>
+		<XepLoai datatype="string">Giỏi</XepLoai>
+		<KetQua datatype="string">Hoàn thành</KetQua>
+	</HocSinh>
+</DanhSachHocSinh>
