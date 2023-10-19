@@ -25,6 +25,11 @@ Các yêu cầu:
 * **Cơ sở dữ liệu:** MySQL
 * **Ngôn ngữ lập trình:** Python
 
+Cấu trúc TRUONGHOC1 và TRUONGHOC2 gồm các bảng sau với khóa chính được in đậm:
+* TRUONG(**MATR**, TENTR, DCHITR): Chứa dữ liệu các trường học
+* HS(**MAHS**, HO, TEN, CCCD, NTNS, DCHI_HS): Chứa dữ liệu học sinh
+* HOC(**MATR, MAHS, NAMHOC**, DIEMTB, XEPLOAI, KQUA): Chứa dữ liệu kết quả học tập
+  
 ## Cấu trúc Repo
 
 Repo chứa các tập tin sau:
