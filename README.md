@@ -29,12 +29,12 @@ Các yêu cầu:
 
 Repo chứa các tập tin sau:
 
-* `CreateSchema1.sql` (yêu cầu 1): Script tạo cơ sở dữ liệu TRUONGHOC1 
-* `generate-db.py` (yêu cầu 2): Chương trình bằng Python tạo dữ liệu cho các bảng của TRUONGHOC1 
-* `CreateSchema2.sql` (yêu cầu 3): Script tạo cơ sở dữ liệu TRUONGHOC2 
-* `query-db.py` (yêu cầu 4): Chương trình bằng Python truy vấn cơ sở dữ liệu bằng {tên database, tên trường, năm học, xếp loại học tập} 
-* `query-xml.py` (yêu cầu 5): Code Python đọc tệp XML theo yêu cầu 4, dùng Xpath in ra danh sách học sinh có điểm trung bình trong ngưỡng cần truy vấn
-* Folder `XML`: Chứa các file XML do yêu cầu 4 xuất ra
+* [CreateSchema1.sql](/CreateSchema1.sql) (yêu cầu 1): Script tạo cơ sở dữ liệu TRUONGHOC1 
+* [generate-db.py](/generate-db.py) (yêu cầu 2): Chương trình bằng Python tạo dữ liệu cho các bảng của TRUONGHOC1 
+* [CreateSchema2.sql](/CreateSchema2.sql) (yêu cầu 3): Script tạo cơ sở dữ liệu TRUONGHOC2 
+* [query-db.py](/query-db.py) (yêu cầu 4): Chương trình bằng Python truy vấn cơ sở dữ liệu bằng {tên database, tên trường, năm học, xếp loại học tập} 
+* [query-xml.py](/query-xml.py) (yêu cầu 5): Code Python đọc tệp XML theo yêu cầu 4, dùng Xpath in ra danh sách học sinh có điểm trung bình trong ngưỡng cần truy vấn
+* Folder [XML](/XML): Chứa các file XML do yêu cầu 4 xuất ra
 
 ## Cách sử dụng Repo
 
